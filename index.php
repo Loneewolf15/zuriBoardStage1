@@ -25,8 +25,8 @@ $data = [
     "current_day" => getCurrentDay(),
     "utc_time" => getCurrentUTCTime(),
     "track" => $track,
-    "github_file_url" => "https://github.com/username/repo/blob/main/file_name.ext",
-    "github_repo_url" => "https://github.com/username/repo",
+    "github_file_url" => "https://github.com/Loneewolf15/zuriBoardStage1/blob/main/index.php",
+    "github_repo_url" => "https://github.com/Loneewolf15/zuriBoardStage1",
     "status_code" => 200
 ];
 

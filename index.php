@@ -16,7 +16,7 @@ function getCurrentUTCTime() {
 }
 
 // function to GET query parameters from the URL
-$slackName = $_GET['slack_name'] ?? 'Lone Wolf';
+$slackName = $_GET['slack_name'] ?? 'Divine';
 $track = $_GET['track'] ?? 'backend';
 
 // the response JSON
